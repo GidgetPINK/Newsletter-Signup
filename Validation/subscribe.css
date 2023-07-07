@@ -1,0 +1,31 @@
+*{
+    max-width: 375px;
+    margin: 5% auto;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: hsl(234, 29%, 20%);
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 700;
+    padding: 0.5% 0;
+    line-height: 100%;
+}
+
+button{
+    padding: 4% 34%;
+    background-color: hsl(234, 29%, 20%);
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    margin-top: 4%;
+    text-align: center;
+    font-weight: 700;
+}
+
+p{
+    line-height: 150%;
+}
